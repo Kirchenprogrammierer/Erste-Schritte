@@ -1,0 +1,24 @@
+# TERMINE
+Ort: Jugendraum
+Zeit: Bis jetz immer Samstag 15:00-17:30 Uhr (nach Vereinbarung)
+
+# MITBRINGEN
+- Laptop mitbringen (wer keinen hat, auch kommen, wir zeigen alles sowieso auf Leinwand, wie beim Showhacking)
+- Die Sachen aus "Eurer Schultüte" vorher zu Hause installieren.
+
+# SACHEN ZU HAUSE INSTALLIEREN
+- Ihr müsst wissen, ob euer Laptop...
+...Windows oder Apple oder Linux ist, 
+... 32 Bit oder 64 Bit hat
+
+# EURE SCHULTÜTE:
+https://drive.google.com/drive/folders/1crLvnxA_Kfe_e5ydhmacLzRTdjIkzLHe?usp=sharing
+
+1) Texteditor (Notepad++)
+2) Die Programmiersprache (Python)
+
+Das müsst ihr zu Hause auf euren Laptop runterladen und installieren.
+
+# DAS KLEINGEDRUCKTE:
+
+- Die folgenden Dateien sind nur für Windows. Wer einen Mac mitbringen will, bitte melden.
